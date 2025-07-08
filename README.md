@@ -6,6 +6,6 @@ Booking a room
 Cancelling a reservation
 Checking availability
 
-![img.png](img.png)
+![img.png](https://github.com/Gmckevz/TU-Java-Session1-HotelRoomReservation/blob/f59d1044f913aaaee3a385bcbfefe3cce7cc967d/images/Output%20Lab%202.png)
 
 Author: Mc Kevin
